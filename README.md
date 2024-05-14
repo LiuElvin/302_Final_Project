@@ -19,14 +19,10 @@
   - Devices can dynamically enter and exit the network.
   
   - A Message hops from one device to the next until it reaches its destination.
-  
----
 
 # An Example of the Ad Hoc Network
 
 - An ad hoc network with 6 disconnected clusters/components.
-
----
 
 # Connected Ad Hoc Network
 
@@ -39,8 +35,6 @@
 
 - We also want to study the distribution of $R_c$ for different configurations of the nodes.
 
----
-
 # Simulation Study for Ad Hoc Network
 
 1. We will randomly generate nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information).
@@ -51,8 +45,6 @@
 </p>
 
 
----
-
 # Simulation Study for Ad Hoc Network
 
 1. We will randomly generate $n$ nodes for an ad hoc network according to some pre-specified node density (generally determined by the geographical information). Specifically, we will use the acceptance-rejection algorithm.
@@ -62,8 +54,6 @@
 - If the points fall in the three-dimensional region beneath the density, then we keep them.
 
 - Use the $(x,y)$ coordinates of these accepted points as our sample.
-
----
 
 # Simulation Study for Ad Hoc Network
 
