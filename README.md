@@ -1,7 +1,5 @@
 # Ad hoc Network (STAT 302 Final Project)
 
----
-
 # What is an Ad Hoc Wireless Network?
 
 - Nowadays, we rely heavily on our cell phones to receive messages and communicate with others around the world.
