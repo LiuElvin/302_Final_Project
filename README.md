@@ -1,7 +1,4 @@
-# 302_Final_Project
-Final project for STAT 302
-
-# Part 7: Ad hoc Network (Final Project)
+# Ad hoc Network (STAT 302 Final Project)
 
 ---
 
@@ -33,10 +30,6 @@ Final project for STAT 302
 
 - An ad hoc network with 6 disconnected clusters/components.
 
-<p align="center">
-<img src="./figures/ad_hoc6.png" width="750"/>
-</p>
-
 ---
 
 # Connected Ad Hoc Network
@@ -47,10 +40,6 @@ Final project for STAT 302
 -->
   
 - Given a particular configuration of nodes, we want to know the smallest radius $R_c$ that makes a connected network.
-
-<p align="center">
-<img src="./figures/ad_hoc_con.png" width="500"/>
-</p>
 
 - We also want to study the distribution of $R_c$ for different configurations of the nodes.
 
@@ -65,14 +54,6 @@ Final project for STAT 302
 
 <p align="center">
 <img src="./figures/contour_3d.jpeg" width="400"/>
-</p>
-
-]
-
-.pull-right[
-
-<p align="center">
-<img src="./figures/contour_2d.jpg" width="400"/>
 </p>
 
 ]
