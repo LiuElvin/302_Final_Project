@@ -6,15 +6,11 @@
 
 - Nowadays, we rely heavily on our cell phones to receive messages and communicate with others around the world.
 
---
-
 - Traditionally, our cell phones need to communicate with a nearby base station in order to send and received calls.
 
   - Calls	are relayed from base stations to base stations as the cell phone moves.
   
   - This may influence the quality of our calls when our cell phones are far away from the nearest base station.
-
---
 
 - The **ad hoc wireless network** instead relays messages via other devices in the network.
 
