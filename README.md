@@ -77,4 +77,4 @@
 
 - Application of the R functions learnt in STAT 302 (ggplot, for loops, while loops, apply functions, etc.).
 
-- Application of linear algebra to produce sparse networks (knowledge of transition matrices, eigenvalues, etc.).
+- Application of linear algebra to produce sparse networks (knowledge of transition matrices, eigenvalues, etc. provided the theoretical backbone for why the algorithm produces a sparse network).
