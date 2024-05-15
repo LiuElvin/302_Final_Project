@@ -69,10 +69,12 @@
 
 # Contributions
 
-- The entirety of the project work was mine. The spec, however, provided me the nodeDensity function alongside the first 2 test cases.
+- The spec provided me the nodeDensity function alongside the first two test cases.
+
+- I worked on this project alone, so the remaining R code was done by me.
 
 # Learning Outcomes
 
-- Application of the R functions learnt in STAT 302
+- Application of the R functions learnt in STAT 302 (ggplot, for loops, while loops, apply functions, etc.).
 
-- Application of linear algebra to produce sparse networks
+- Application of linear algebra to produce sparse networks (knowledge of transition matrices, eigenvalues, etc.).
