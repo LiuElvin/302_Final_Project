@@ -67,4 +67,10 @@
 
 # Contributions
 
-- The entirety of the projectwork was mine work. The spec provided, however, contained the nodeDensity function and the first 2 test cases.
+- The entirety of the project work was mine. The spec, however, provided me the nodeDensity function alongside the first 2 test cases.
+
+# Learning Outcomes
+
+- Application of the R functions learnt in STAT 302
+
+- Application of linear algebra to produce sparse networks
