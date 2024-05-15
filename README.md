@@ -65,6 +65,8 @@
 
 [Project Description](https://raw.githubusercontent.com/zhangyk8/zhangyk8.github.io/master/_teaching/file_stat302/Lectures/Final_Project.pdf)
 
+---
+
 # Contributions
 
 - The entirety of the project work was mine. The spec, however, provided me the nodeDensity function alongside the first 2 test cases.
