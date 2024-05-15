@@ -64,3 +64,7 @@
 4. Study the distribution of $R_c$.
 
 [Project Description](https://raw.githubusercontent.com/zhangyk8/zhangyk8.github.io/master/_teaching/file_stat302/Lectures/Final_Project.pdf)
+
+# Contributions
+
+- The entirety of the projectwork was mine work. The spec provided, however, contained the nodeDensity function and the first 2 test cases.
